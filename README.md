@@ -2,7 +2,7 @@
 
 This is the Sherpa Mini Extruder, a ground up design developed by Anlin and the team at Annex Engineering. It's a dual geared hobbed filament extruder designed for use with any printer. It features a 5:1 gear driven design to provide torque while being able to be near silent. You must perform your own tuning to get the best results.
 
-A Pancake Stepper is required for this Beta Release. NEMA14 Motors are still in internal testing.
+A Pinion Equipped Pancake Stepper is required for this Release.
 
 Our discord server can be found here: https://discord.gg/MzTR3zE
 
