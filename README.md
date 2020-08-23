@@ -7,3 +7,6 @@ A Pancake Stepper is required for this Beta Release. NEMA14 Motors are still in 
 Our discord server can be found here: https://discord.gg/MzTR3zE
 
 The BOM and Sourcing Guide for this product can be found here: https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/edit?usp=sharing
+
+![Image of Sherpa Extruder](https://github.com/Annex-Engineering/Sherpa_Mini_Extruder/blob/master/Images/sherpa_mini_1.png?raw=true)
+![Image of Sherpa Extruder](https://github.com/Annex-Engineering/Sherpa_Mini_Extruder/blob/master/Images/sherpa_mini_2.png?raw=true)
