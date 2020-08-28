@@ -1,0 +1,21 @@
+These are good starting settings for the extruder, I have copy pasted my entire block out of my klipper config below:
+
+# Extruder0
+[extruder]
+"5:1" gears, dd, pinion nema14
+step_distance: 0.001423
+
+#0.4mm Nozzle
+nozzle_diameter: 0.400
+pressure_advance: 0.05
+pressure_advance_smooth_time: 0.040
+max_extrude_only_distance: 1400.0
+max_extrude_only_velocity: 30.0
+max_extrude_only_accel: 100.0
+max_extrude_cross_section: 20000.0 #this is for KISSlicer Only
+
+#settings for NEMA14 Stepper
+[tmc2209 extruder]
+microsteps: 16
+interpolate: false
+run_current: 0.25 #up to 0.3A
