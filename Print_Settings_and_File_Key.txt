@@ -1,0 +1,12 @@
+Primary Color: nothing at start of file name
+Accent Color: [a]_ at start of file name
+Quantity Required: _x# near end of file name
+File Revision: _Rev# at end of file name
+
+Approved FDM Materials: ABS, ABS+, or 3DXTech Carbon Nylon
+Layer Height: 0.2mm
+Extrusion Width: Forced 0.4mm
+Infill Percentage: 40% minimum
+Infill Type: Grid, Gyroid, Honeycomb, Triangle or Cubic
+Wall Count: 4 minimum
+Solid Top/Bottom Layers: 5 minimum
