@@ -6,6 +6,9 @@ YOU MAY: modify, enhance, or create derived forms of the Software and Hardware f
 
 YOU MAY NOT: reverse-engineer, decompile, or disassemble forms of the Software and Hardware
 
+
+
+
 This Non-Commercial Software and Hardware License Agreement (the "Agreement") is made between you (the "Licensee") and ANNEX Engineering. (the "Licensor"). By using this product (the "Software and Hardware"), you agree to be bound by the terms and conditions of this Agreement as may be revised from time to time at Licensor's sole discretion. If you do not agree to the terms and conditions of this Agreement, do not install or use the Software and Hardware.
 NON-COMMERCIAL USE. Licensor hereby grants to Licensee one (1) non-exclusive, non-transferable license (the "License") to install and use the Software and Hardware for Personal Use (the "Intended Purpose").
 "Software and Hardware" includes the executable computer programs, source code/CAD and any related printed, electronic and online documentation, manuals, training aids, user guides, system administration documentation and any other files that may accompany the code.
@@ -47,9 +50,9 @@ NO AGENCY. No provision of this Agreement or action by the Parties will establis
 
 ENTIRE AGREEMENT. This Agreement including all schedules hereto, constitutes the entire agreement between the Parties concerning the subject matter hereof and supersedes all prior or collateral agreements, communications, representations, understandings, negotiations and discussions, oral or written.
 
-ATTRRIBUTION. You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+ATTRIBUTION. You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-NONCOMMERCIAL. You may not use the material for commercial purposes. You may not sell the product, make a profit, etc without an expressed written agreement between you (the "Licensee") and ANNEX Engineering. (the "Licensor").
+NON-COMMERCIAL. You may not use the material for commercial purposes. You may not sell the product, make a profit, etc without an expressed written agreement between you (the "Licensee") and ANNEX Engineering. (the "Licensor").
 
 THIRD PARTIES. For purposes of this license agreement, VORON Design, all design team members, employees, representatives and subsidiaries are considered a commercial entity. They may not adapt or derive any works from this repository without the expressed permission of ANNEX Engineering, and must provide public credit when such works are adapted in perpetuity. Community users do not fall under this clause
 
