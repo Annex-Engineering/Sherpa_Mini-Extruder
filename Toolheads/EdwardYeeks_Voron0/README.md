@@ -1,6 +1,6 @@
 # V0 Toolhead for Sherpa Mini - Alpha 2
 
-![Image of V0 Toolhead](Images/sherpa_mini_v0_toolhead_a2.png)
+![Image of V0 Toolhead](/Images/sherpa_mini_v0_toolhead_a2.png)
 
 This is Alpha 2 release of the V0 toolhead to mount the Sherpa Mini Extruder as a direct drive extruder. Compared to the Alpha 1, the changes in this release are:
 
@@ -9,7 +9,7 @@ This is Alpha 2 release of the V0 toolhead to mount the Sherpa Mini Extruder as 
 - More ziptie mounts on both sides for wiring convenience.
 - New focussed cooling fan duct that should direct airflow closer to nozzle. (**NOTE: Untested and experimental**)
 
-![V0 Toolhead Wire Routing](Images/wire_routing_a2.png)
+![V0 Toolhead Wire Routing](/Images/wire_routing_a2.png)
 
 Stock fan ducts are available and the CAD files for the toolhead has been included if you wish to tinker with it. For the length of the bowden tube between the sherpa mini and the hotend, use the following lengths as a starting point:
 
