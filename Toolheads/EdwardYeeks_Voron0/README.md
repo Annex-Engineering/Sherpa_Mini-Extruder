@@ -8,7 +8,7 @@ This is Beta 1 release of the V0 toolhead to mount the Sherpa Mini Extruder as a
 - New umbilical strain relief with options to use a printed clamp that screws together or zipties. Compared to the previous versions, this provides a lot more support as well as much more room to work with. The 30° angle forwards provides more bending radius for the umbilical cable when the toolhead is at Y max/rear.
 
 <p align="center">
-  <img width="600" height="450" src="./Images/ziptie_strain_relief.png">
+  <img width="600" height="500" src="./Images/ziptie_strain_relief.png">
 </p>
 
 - More ziptie points as well as small tweaks to make them less prone to breaking.
