@@ -6,7 +6,11 @@ This is Beta 1 release of the V0 toolhead to mount the Sherpa Mini Extruder as a
 
 - Sherpa Mini is lowered 2mm closer to the hotend, reducing the distance between the extruder and hotend as well as the total height of the assembly slightly.
 - New umbilical strain relief with options to use a printed clamp that screws together or zipties. Compared to the previous versions, this provides a lot more support as well as much more room to work with. The 30° angle forwards provides more bending radius for the umbilical cable when the toolhead is at Y max/rear.
-<img align="center" width="500" height="500" src="images/ziptie_strain_relief.png">
+
+<p align="center">
+  <img width="500" height="500" src="./Images/ziptie_strain_relief.png">
+</p>
+
 - More ziptie points as well as small tweaks to make them less prone to breaking.
 
 Stock fan ducts are available and the CAD files for the toolhead has been included if you wish to tinker with it (feel free to add your . For the length of the bowden tube between the sherpa mini and the hotend, use the following lengths as a starting point:
