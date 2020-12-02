@@ -1,13 +1,12 @@
 # V0 Toolhead for Sherpa Mini - Beta 1
 
-![V0 Toolhead Front](./Images/front.png)
-![V0 Toolhead Rear](./Images/rear.png)
-![Umbilical strain relief](./Images/ziptie_strain_relief.png)
+![V0 Toolhead Front](./Images/front_rear.png)
 
 This is Beta 1 release of the V0 toolhead to mount the Sherpa Mini Extruder as a direct drive extruder. Compared to the Alpha 2, the changes in this release are:
 
 - Sherpa Mini is lowered 2mm closer to the hotend, reducing the distance between the extruder and hotend as well as the total height of the assembly slightly.
 - New umbilical strain relief with options to use a printed clamp that screws together or zipties. Compared to the previous versions, this provides a lot more support as well as much more room to work with. The 30° angle forwards provides more bending radius for the umbilical cable when the toolhead is at Y max/rear.
+<img align="center" width="500" height="500" src="images/ziptie_strain_relief.png">
 - More ziptie points as well as small tweaks to make them less prone to breaking.
 
 Stock fan ducts are available and the CAD files for the toolhead has been included if you wish to tinker with it (feel free to add your . For the length of the bowden tube between the sherpa mini and the hotend, use the following lengths as a starting point:
@@ -23,7 +22,5 @@ You will need a [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-E
 
 *Note: There is no direct comparison between the stock fan duct and the focussed fan duct yet. However, the focussed fan duct has been tested and works well in my setup.*
 
-![Front Picture](./Images/assembled_toolhead_front.png)
-
-![Side Picture](./Images/assembled_toolhead_side.png)
+![Assembled Toolhead Pictures](./Images/assembled_toolhead.png)
 <sub>You may want to assembled your nema 14 motor such that the wires exit from beneath the sherpa mini, creating a more neater look. </sub>
