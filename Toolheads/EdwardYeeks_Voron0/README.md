@@ -1,8 +1,8 @@
 # V0 Toolhead for Sherpa Mini - Beta 1
 
-![V0 Toolhead Front](./Images/front.PNG)
-![V0 Toolhead Rear](./Images/rear.PNG)
-![Umbilical strain relief](./Images/ziptie_strain_relief.PNG)
+![V0 Toolhead Front](./Images/front.png)
+![V0 Toolhead Rear](./Images/rear.png)
+![Umbilical strain relief](./Images/ziptie_strain_relief.png)
 
 This is Beta 1 release of the V0 toolhead to mount the Sherpa Mini Extruder as a direct drive extruder. Compared to the Alpha 2, the changes in this release are:
 
@@ -23,7 +23,7 @@ You will need a [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-E
 
 *Note: There is no direct comparison between the stock fan duct and the focussed fan duct yet. However, the focussed fan duct has been tested and works well in my setup.*
 
-![Front Picture](./Images/assembled_toolhead_front.PNG)
+![Front Picture](./Images/assembled_toolhead_front.png)
 
-![Side Picture](./Images/assembled_toolhead_side.PNG)
+![Side Picture](./Images/assembled_toolhead_side.png)
 <sub>You may want to assembled your nema 14 motor such that the wires exit from beneath the sherpa mini, creating a more neater look. </sub>
