@@ -13,7 +13,7 @@ This is Beta 1 release of the V0 toolhead to mount the Sherpa Mini Extruder as a
 
 - More ziptie points as well as small tweaks to make them less prone to breaking.
 
-Stock fan ducts are available and the CAD files for the toolhead has been included if you wish to tinker with it (feel free to add your . For the length of the bowden tube between the sherpa mini and the hotend, use the following lengths as a starting point:
+Stock fan ducts are available and the CAD files for the toolhead has been included if you wish to tinker with it (feel free to add your own features and logos). For the length of the bowden tube between the sherpa mini and the hotend, use the following lengths as a starting point:
 
 - V6 Threaded: **39mm**
 - Mosquito: **23mm**
@@ -22,7 +22,8 @@ Stock fan ducts are available and the CAD files for the toolhead has been includ
 You will need a [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) and its parts can be found in our [sourcing guide](https://docs.google.com/spreadsheets/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/htmlview#). It reuses all the same fasteners and parts from the original V0 toolhead with exception of the following extra parts:
 
 - 4x Heatset inserts (3x5x4mm) (2x only needed if using ziptie to provide strain relief to umbilical cable.)
-- 2 M3x16mm bolts (optional)
+- 1x M3x25mm bolt and 1x M3 nut
+- 2 M3x16mm bolts (optional, used only with cable clamp.)
 
 *Note: There is no direct comparison between the stock fan duct and the focussed fan duct yet. However, the focussed fan duct has been tested and works well in my setup.*
 
