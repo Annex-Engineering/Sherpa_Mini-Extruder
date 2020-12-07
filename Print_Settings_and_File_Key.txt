@@ -3,10 +3,12 @@ Accent Color: [a]_ at start of file name
 Quantity Required: _x# near end of file name
 File Revision: _Rev# at end of file name
 
-Approved FDM Materials: ABS, ABS+
+Nozzle Size: 0.4 or 0.6mm Recommended
+Recommended FDM Materials: ASA, Polymaker or 3DXTech Recommended
+Alternate Approved FDM Materials: ABS, ABS+, 3DXtech or Atomic Filaments Recommended
 Layer Height: 0.1mm or 0.2mm
 Extrusion Width: Forced 0.4mm
-Infill Percentage: 40% minimum
+Infill Percentage: 40% minimum (at 0.6mm Width)
 Infill Type: Grid, Gyroid, Honeycomb, Triangle or Cubic
-Wall Count: 4 minimum
-Solid Top/Bottom Layers: 5 minimum
+Wall Count: 3 minimum (at 0.4mm Width)
+Solid Top/Bottom Layers: 5 minimum (at 0.2mm Height)
