@@ -1,10 +1,10 @@
 # V2.2 Toolhead for Sherpa Mini - Release 2
 
-This is a toolhead and X carriage for the Sherpa Mini Extruder based off the original V2.2 design. Compared to the original toolhead, the blower fans have been moved forward by 4mm to provide clearance for V1.8/V2.4 gantries while still clearing the front panel at Y-min. It is a dual rail variant.
+This is a toolhead and X carriage for the Sherpa Mini Extruder based off the original V2.2 design. Compared to the original toolhead, the blower fans have been moved forward by 4mm to provide clearance for V1.8/V2.4 gantries while still clearing the front panel at Y-min. It is a dual rail variant. Single rail variants will be added in the future.
 
 It is a direct drop in for V2.2, V2.4 and Denali gantries. For V1.8, a loss of ~2-4mm in the x-axis total travel is expected.
 
-Currently, it supports the Dragon Hotend only. Probe options include the Omron probe and the Magnetic Microswitch probe from Annex. There is also an option that is compatible with Denali/V1.8 gantry; you need only choose and print the right X carriage for these printers.
+It supports the Dragon Hotend and Mosquito Hotend (for E3D V6 mounts, refer to papejelly's mount [here](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master/Toolheads/PapeJelly_VORON2.2_V6)). For probes, only the Omron TL-Q5MC2 probe and the Magnetic Microswitch probe from Annex are supported. There is also X carriage options that have microswitch mounting points making them compatible with Denali/V1.8 gantry; you need only choose and print the right X carriage for these printers.
 
 ![Image of V2.2 X Carriage](./Images/v2.2_sherpa_toolhead_carriage_mod_rev2.png)
 
