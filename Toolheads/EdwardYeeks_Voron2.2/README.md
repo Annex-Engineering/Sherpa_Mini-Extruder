@@ -12,24 +12,27 @@ It supports the Dragon Hotend and Mosquito Hotend (for E3D V6 mounts, refer to p
 
 Refer to our [sourcing guide](https://docs.google.com/spreadsheets/u/1/d/1O3eyVuQ6M4F03MJSDs4Z71_XyNjXL5HFTZr1jsaAtRc/htmlview#) for recommended vendors. CAD is also provided to allow you to view the assembly and parts.
 
+
+**Required**
 - 2x M3X16mm SHCS
-- 1x M3X20mm SCHS (for Omron X-Carriage only)
 - 4x M3X12mm SCHS
 - 2x M3X16mm SHCS
-- 3x M3x30mm SHCS (4x for Omron X-Carriage)
+- 3x M3x30mm SHCS
 - 6x M3X8mm SHCS
 - 4X M3X6mm BHCS
-- 10x M2X8mm self tapping screws (+ 2x for Denali/V1.8 carriage only, to mount the microswitch)
-- 2x M3 OpenBuilds M3 Tee Nuts (for belt clamps)
+- 10x M2X8mm self tapping screws
+- 2x M3 OpenBuilds M3 Tee Nuts (for belt clamps, you can reuse the printed belt clamps from Voron Afterburner/older 2.2 toolheads)
 - 6x M3 nuts
 - 10X Heatset Inserts (3x5x4mm)
 - 1x 4010 axial fan (hotend cooling)
 - 2x 4010 blower fan (parts cooling)
-- 1x Omron TL-Q5MC2 probe (for omron carriage option)
-- 4x 3x6mm magnets (for magnetic microswitch carriage only)
 - Wire connectors of your choice
 
-
-
+**Optional depending on toolhead & mounts**
+- 1x M3X20mm SCHS (for Omron X-Carriage only)
+- 1x extra M3x30mm SHCS (for Omron X-Carriage)
+- 2x extra M2X8mm self tapping screws (for Denali/V1.8 carriage only, to mount the microswitch)
+- 1x Omron TL-Q5MC2 probe (for omron carriage option)
+- 4x 3x6mm magnets (for magnetic microswitch carriage only)
 
 
