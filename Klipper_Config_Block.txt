@@ -3,7 +3,7 @@ These are good starting settings for the extruder, I have copy pasted my entire 
 # Extruder0
 [extruder]
 rotation_distance: 22.67895 #for 5mm Shaft Driven Bondtech gearsets
-gear_ratio: 5:1 #Sherpa Mini uses 5:1, Folded Ascender Use 40:1 or 20:1
+gear_ratio: 5:1 #Sherpa Mini uses 5:1
 microsteps: 16
 full_steps_per_rotation: 200 #1.8deg Motor
 
