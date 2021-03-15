@@ -3,9 +3,11 @@ Accent Color: [a]_ at start of file name
 Quantity Required: _x# near end of file name
 File Revision: _Rev# at end of file name
 
-Nozzle Size: 0.4 or 0.6mm Recommended
-Recommended FDM Materials: ASA, Polymaker or 3DXTech Recommended
+Nozzle Size: 0.4 Recommended, 0.6mm or 0.5mm Optional
+Recommended FDM Materials: ASA, Polymaker, FilamentOne or 3DXTech Recommended
 Alternate Approved FDM Materials: ABS, ABS+, 3DXtech or Atomic Filaments Recommended
+
+Below Settings are for a 0.4mm Nozzle
 Layer Height: 0.1mm or 0.2mm
 Extrusion Width: Forced 0.4mm
 Infill Percentage: 40% minimum (at 0.6mm Width)
