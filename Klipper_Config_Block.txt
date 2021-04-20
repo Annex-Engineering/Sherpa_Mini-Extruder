@@ -15,4 +15,7 @@ max_extrude_only_accel: 1500
 #settings for NEMA14 Stepper
 [tmc2209 extruder]
 interpolate: True
-run_current: 0.30 #up to 0.35A
+
+#Run current is listed in RMS
+run_current: 0.30 #min current, equivalent to 0.42A peak (Peak = RMS/0.707)
+#run_current: 0.35 #max current, equivalent to 0.49A peak (Peak = RMS/0.707)
