@@ -5,10 +5,13 @@ hotend.
 Integrates a microswitch filament
 loading sensor for use with filament-swapping multi-material systems such as the
 [Enraged Rabbit Project](https://github.com/EtteGit/EnragedRabbitProject), or
-[Prusa MMU](https://www.prusa3d.com/original-prusa-i3-multi-material-2-0/).
+[Prusa MMU](https://www.prusa3d.com/original-prusa-i3-multi-material-2-0/). Use
+with the [ECAS retainer housing core Sherpa Mini mod](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master/User_Mods/Housing_Core_with_ECAS_coupler) for more reliable automated 
+filament loading.
 
 ![](img/toolhead_render_back.jpg)
 
+----------------------
 ## BOM
 ### Filament sensor specific BOM items:
 - 1 × 7 mm steel ball bearing
