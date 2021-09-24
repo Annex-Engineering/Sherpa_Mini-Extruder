@@ -1,4 +1,4 @@
-# Based of the STLs from Sherpa Mini beta RC1 
+# Based of the STLs from Sherpa Mini R1 
 
 # General info  
  - Only changes have been the hole sizing on the core and rear housing.
