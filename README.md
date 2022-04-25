@@ -10,6 +10,8 @@ This is the Sherpa Mini Extruder, a ground up design developed by Anlin and the 
 
 A Pinion Equipped Pancake Stepper is required for this Release.
 
-Our discord server can be found here: https://discord.gg/MzTR3zE
+Our discord server can be found here: 
+
+[![Join me on Discord](https://discord.com/api/guilds/641407187004030997/widget.png?style=banner2)](https://discord.gg/MzTR3zE)
 
 ![Image of Sherpa Extruder](https://github.com/Annex-Engineering/Sherpa_Mini_Extruder/blob/master/Images/sherpa_mini_rc1.jpg?raw=true)
