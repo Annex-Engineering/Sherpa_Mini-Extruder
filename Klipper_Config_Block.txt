@@ -19,3 +19,7 @@ interpolate: True
 #Run current is listed in RMS
 run_current: 0.30 #min current, equivalent to 0.42A peak (Peak = RMS/0.707)
 #run_current: 0.35 #max current, equivalent to 0.49A peak (Peak = RMS/0.707)
+
+#starting point for retraction tuning
+#retraction speed: 30mm/s - do not exceed this speed
+#retraction distance: 0.4mm
