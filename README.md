@@ -17,4 +17,6 @@ Our discord server can be found here:
 
 [![Join me on Discord](https://discord.com/api/guilds/641407187004030997/widget.png?style=banner2)](https://discord.gg/MzTR3zE)
 
+Please only use GitHub Issues for repo and file related problems. For general design related questions and technical support please visit our Discord server.
+
 ![Image of Sherpa Extruder](https://github.com/Annex-Engineering/Sherpa_Mini_Extruder/blob/master/Images/sherpa_mini_rc1.jpg?raw=true)
