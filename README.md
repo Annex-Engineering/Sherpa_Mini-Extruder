@@ -1,7 +1,12 @@
 ## Mini R2 Release Candidate:
-+ Bondtech RIDGA v2 compatibility
++ Bondtech RIDGA v2 compatibility (R2 RC1 and newer)
++ Bondtech insert support
++ Stronger and stiffer idler arm
++ Increased clearance between idler arm and core
 + Minor fixes and adjustments in preparation for upcoming upgrades
-Core housing and rear housing need to be reprinted if upgrading from Release 1
+
++ Core housing and rear housing need to be reprinted if upgrading from Release 1
++ Updated idler arms are backwards compatible with Release 1 and Release 2 RC1
 
 ## FAQ
 For Material Requirements, Print Settings and How to Interpret the file naming structure, please see: "Print_Settings_and_File_Key.txt"
