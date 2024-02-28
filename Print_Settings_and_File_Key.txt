@@ -14,7 +14,7 @@ Wall Count: 4 minimum (at 0.4mm Width)
 Solid Top/Bottom Layers: 5 minimum (at 0.2mm Height)
 
 Nozzle Size: 0.5mm 
-Recommended FDM Materials: ASA (Polymaker or 3DXTech Recommended)
+Recommended FDM Materials: ASA (Fillamentum, Prusament, Polymaker or 3DXTech Recommended)
 Alternate Approved FDM Materials: PC (3DXTech Recommended)
 Layer Height: 0.1 or 0.2mm
 Extrusion Width: Forced 0.5mm
