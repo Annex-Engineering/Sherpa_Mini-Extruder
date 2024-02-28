@@ -3,22 +3,23 @@ Accent Color: [a]_ at start of file name
 Quantity Required: _x# near end of file name
 File Revision: _Rev# at end of file name
 
-Nozzle Size: 0.5mm 
-Recommended FDM Materials: ASA, Polymaker or 3DXTech Recommended
-Alternate Approved FDM Materials: PC, 3DXTech Recommended
-Layer Height: 0.25mm
-Extrusion Width: Forced 0.5mm
-Infill Percentage: 40% minimum (at 0.8mm Width)
-Infill Type: Grid, Gyroid, Honeycomb, Triangle or Cubic
-Wall Count: 3 minimum (at 0.5mm Width)
-Solid Top/Bottom Layers: 4 minimum (at 0.5mm Height)
-
-Nozzle Size: 0.4mm 
-Recommended FDM Materials: ASA, Polymaker or 3DXTech Recommended
-Alternate Approved FDM Materials: PC, 3DXTech Recommended
-Layer Height: 0.20mm or 0.25mm
+Nozzle Size: 0.4mm (RECOMMENDED)
+Recommended FDM Materials: ASA (Fillamentum, Prusament, Polymaker or 3DXTech Recommended)
+Alternate Approved FDM Materials: PC (3DXTech Recommended)
+Layer Height: 0.10mm or 0.2mm
 Extrusion Width: Forced 0.4mm
 Infill Percentage: 40% minimum (at 0.6mm Width)
 Infill Type: Grid, Gyroid, Honeycomb, Triangle or Cubic
 Wall Count: 4 minimum (at 0.4mm Width)
-Solid Top/Bottom Layers: 4 minimum (at 0.25mm Height)
+Solid Top/Bottom Layers: 5 minimum (at 0.2mm Height)
+
+Nozzle Size: 0.5mm 
+Recommended FDM Materials: ASA (Polymaker or 3DXTech Recommended)
+Alternate Approved FDM Materials: PC (3DXTech Recommended)
+Layer Height: 0.1 or 0.2mm
+Extrusion Width: Forced 0.5mm
+Infill Percentage: 40% minimum (at 0.6mm Width)
+Infill Type: Grid, Gyroid, Honeycomb, Triangle or Cubic
+Wall Count: 4 minimum (at 0.5mm Width)
+Solid Top/Bottom Layers: 5 minimum (at 0.2mm Height)
+
